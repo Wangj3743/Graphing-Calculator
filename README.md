@@ -1,7 +1,7 @@
 # Graphing-Calculator
 
-```diff
 ## WARNING
+```diff
 - This project is probably filled with bugs but it should work fine
 - probably
 ```
