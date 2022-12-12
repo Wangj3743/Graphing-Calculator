@@ -1,8 +1,10 @@
 # Graphing-Calculator
 
-## warning
-This project is probably filled with bugs but it should work fine
-probably
+```diff
+## WARNING
+- This project is probably filled with bugs but it should work fine
+- probably
+```
 
 ## Description 
 This is a graphing calculator that works with any function **f(x) = ax^2 + bx + c** where a, b, c can be any integer. 
